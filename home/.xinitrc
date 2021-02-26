@@ -50,6 +50,5 @@ fi
 
 setxkbmap -layout fr,ar -option grp:win_space_toggle &
 xrandr --output Virtual-1 --mode 1360x768 &
-picom -f &
 ~/.fehbg &
 exec dwm
