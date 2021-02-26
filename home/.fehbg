@@ -1,0 +1,2 @@
+#!/bin/sh
+feh --no-fehbg --bg-fill '/home/yazid/Downloads/MBLzr4N.jpeg' 
